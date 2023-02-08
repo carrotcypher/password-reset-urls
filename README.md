@@ -2,6 +2,8 @@
 
 Common website password reset URLs stored in Javascript object
 
+The script is [served via Github pages here](https://carrotcypher.github.io/password-reset-urls/password-reset-urls.js).
+
 Feel free to submit your PRs for updating with new websites password reset pages as you come across them, or to update existing ones.
 
 ## License
