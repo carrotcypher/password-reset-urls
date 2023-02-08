@@ -1,0 +1,19 @@
+const password_reset_urls = {
+    "vistaprint.ca":"www.vistaprint.ca/my-account/account-settings/",
+    "123rf.com":"www.123rf.com/forgetpassword/",
+    "1984.hosting":"1984.hosting/accounts/settings/",
+    "my.a2hosting.com":"my.a2hosting.com/index.php?rp=/user/password",
+    "a2hosting.com":"my.a2hosting.com/index.php?rp=/user/password",
+    "accounts.binance.com":"accounts.binance.com/en/password",
+    "adobe.com":"auth.services.adobe.com/en_US/deeplink.html#/password-change/auth",
+    "accounts.adobe.com":"auth.services.adobe.com/en_US/deeplink.html#/password-change/auth",
+    "adobeid.services.adobe.com":"auth.services.adobe.com/en_US/deeplink.html#/password-change/auth",
+    "advocacyassembly.org":"advocacyassembly.org/en/dashboard",
+    "ally.com":"secure.ally.com/profile/password",
+    "amazon.com":"www.amazon.com/ap/forgotpassword?showRememberMe=true&openid.pape.max_auth_age=0&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&pageId=usflex&mobileBrowserWeblabTreatment=C&openid.return_to=https%3A%2F%2Fwww.amazon.com%2Fgp%2Fcss%2Fhomepage.html%3Fref_%3Dnav_signin&&openid.assoc_handle=usflex&openid.mode=checkid_setup&desktopBrowserWeblabTreatment=C&prepopulatedLoginId=&failedSignInCount=0&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0",
+    "portal.aws.amazon.com":"signin.aws.amazon.com/updateaccount?redirect_uri=https%3A%2F%2Fconsole.aws.amazon.com%2Fbilling%2Fhome%23%2Faccount",
+    "angel.co":"angel.co/settings",
+    "ankiweb.net":"ankiweb.net/account/resetpw",
+    "app.deel.com":"app.deel.com/settings/security",
+    "app.docusign.com":"account.docusign.com/forgotpassword"
+}
