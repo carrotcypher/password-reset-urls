@@ -15,5 +15,6 @@ const password_reset_urls = {
     "angel.co":"angel.co/settings",
     "ankiweb.net":"ankiweb.net/account/resetpw",
     "app.deel.com":"app.deel.com/settings/security",
-    "app.docusign.com":"account.docusign.com/forgotpassword"
+    "app.docusign.com":"account.docusign.com/forgotpassword",
+    "app.gusto.com":"app.gusto.com/settings/account"
 }
